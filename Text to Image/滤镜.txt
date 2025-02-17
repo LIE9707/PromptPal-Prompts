@@ -1,0 +1,77 @@
+Vintage
+Retro
+Lomo
+Polaroid
+Sepia
+Black and White (B&W)
+High Contrast B&W
+Low Contrast B&W
+Grayscale
+Film Grain
+Dust and Scratches
+Light Leaks
+Vignette
+Brightness
+Contrast
+Saturation
+Vibrance
+Hue
+Temperature
+Tint
+Exposure
+Highlights
+Shadows
+Whites
+Blacks
+Color Balance
+Curves
+Levels
+Selective Color
+Color Grading
+Gradient Map
+HDR (High Dynamic Range)
+Duotone
+Oil Painting
+Watercolor
+Sketch
+Pencil Sketch
+Charcoal Sketch
+Colored Pencil Sketch
+Cartoon
+Anime
+Comic Book
+Pop Art
+Abstract
+Pixel Art
+Glitch
+Mosaic
+Posterize
+Halftone
+Motion Blur
+Radial Blur
+Zoom Blur
+Sharpen
+Unsharp Mask
+Gaussian Blur
+Bokeh
+Tilt-Shift
+Lens Flare
+Glow
+Dreamy
+Fantasy
+Sci-Fi
+Horror
+Double Exposure
+Long Exposure
+Infrared
+Cross Processing
+Paper Texture
+Grunge Texture
+Concrete Texture
+Fabric Texture
+Water Texture
+Bokeh Overlay
+Light Leak Overlay
+Dust Overlay
+Rain Overlay
+Snow Overlay

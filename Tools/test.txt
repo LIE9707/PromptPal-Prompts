@@ -1,0 +1,30 @@
+Quadratic Formula: $x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$
+Pythagorean Theorem: $a^2 + b^2 = c^2$
+Euler's Identity: $e^{i\pi} + 1 = 0$
+Binomial Theorem: $(a + b)^n = \sum_{k=0}^{n} \binom{n}{k} a^{n-k} b^k$
+Area of a Circle: $A = \pi r^2$
+Cubic Formula: $x = \frac{-b \pm \sqrt{b^2 - 3ac}}{3a}$
+Derivative of Sine: $\frac{d}{dx} \sin(x) = \cos(x)$
+Integral of Cosine: $\int \cos(x) \, dx = \sin(x) + C$
+Taylor Series: $f(x) = f(a) + f'(a)(x-a) + \frac{f''(a)}{2!}(x-a)^2 + \cdots$
+Logarithmic Property: $\ln(ab) = \ln(a) + \ln(b)$
+Newton's Second Law: $F = ma$
+Gravitational Force: $F = G \frac{m_1 m_2}{r^2}$
+Coulomb's Law: $F = k_e \frac{q_1 q_2}{r^2}$
+Einstein's Energy-Mass Equivalence: $E = mc^2$
+Ohm's Law: $V = IR$
+Kinetic Energy: $KE = \frac{1}{2}mv^2$
+Potential Energy: $PE = mgh$
+Work-Energy Theorem: $W = \Delta KE$
+Momentum: $p = mv$
+Law of Universal Gravitation: $F = G \frac{m_1 m_2}{r^2}$
+Maxwell's Equations (Gauss's Law): $\nabla \cdot \mathbf{E} = \frac{\rho}{\epsilon_0}$
+Faraday's Law of Induction: $\mathcal{E} = -\frac{d\Phi_B}{dt}$
+Magnetic Force on a Moving Charge: $F = q(\mathbf{v} \times \mathbf{B})$
+Planck's Law: $E = h \nu$
+Schrödinger Equation: $i \hbar \frac{\partial}{\partial t} \psi = \hat{H} \psi$
+Heisenberg Uncertainty Principle: $\Delta x \Delta p \geq \frac{\hbar}{2}$
+Lorentz Force: $\mathbf{F} = q(\mathbf{E} + \mathbf{v} \times \mathbf{B})$
+Stefan-Boltzmann Law: $P = \sigma A T^4$
+Wave Equation: $v = f \lambda$
+Ideal Gas Law: $PV = nRT$
