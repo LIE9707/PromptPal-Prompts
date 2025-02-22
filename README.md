@@ -9,9 +9,8 @@
     <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="40">
   </a>
 </p>
+<h1 align="center">PromptPane Prompts<br>Explore and Expand Your Creativity</h1>
 
-<h1 align="center">PromptPane Prompts
-    Explore and Expand Your Creativity</h1>
 
 <p align="center">A curated collection of prompt files to enhance your experience with the <a href="https://apps.apple.com/us/app/promptpane/id6741926369">PromptPal macOS application</a>.</p>
 
