@@ -1,0 +1,133 @@
+Raw Wood
+Hardwood
+Oak
+Walnut
+Maple
+Cherry
+Mahogany
+Softwood
+Pine
+Fir
+Cedar
+Plywood
+Fiberboard
+Particle Board
+Bamboo
+Bark
+Rough Wood Grain
+Smooth Wood Grain
+Polished Wood Grain
+Distressed Wood Grain
+Weathered Wood Grain
+Granite
+Marble
+Limestone
+Sandstone
+Slate
+Basalt
+Pebble
+Rock
+Crystal
+Diamond
+Ruby
+Sapphire
+Emerald
+Mineral
+Iron
+Steel
+Stainless Steel
+Carbon Steel
+Aluminum
+Copper
+Brass
+Bronze
+Gold
+Silver
+Platinum
+Titanium
+Brushed Metal
+Polished Metal
+Matte Metal
+Oxidized Metal
+Rusted Metal
+Clay
+Loam
+Fine Sand
+Coarse Sand
+Dirt
+Mud
+Leaves
+Flowers
+Grass
+Vines
+Moss
+Branches
+Leather
+Fur
+Feathers
+Scales
+Bones
+Shells
+Silk
+Wool
+Still Water
+Running Water
+Waves
+Water Droplets
+Ice
+Smooth Ice
+Rough Ice
+Transparent Ice
+Icicle
+Snow
+Frost
+PVC
+ABS
+Polyethylene
+Polypropylene
+Polystyrene
+Acrylic
+Nylon
+Polycarbonate
+Smooth Plastic
+Matte Plastic
+Transparent Plastic
+Translucent Plastic
+Opaque Plastic
+Cotton
+Linen
+Wool
+Silk
+Velvet
+Denim
+Canvas
+Lace
+Knit
+Woven
+Printed
+Clear Glass
+Colored Glass
+Frosted Glass
+Stained Glass
+Mirrored Glass
+Tempered Glass
+Pottery
+Porcelain
+Stoneware
+Glazed
+Unglazed
+Carbon Fiber
+Fiberglass
+Kevlar
+Cardboard
+Crepe Paper
+Rice Paper
+Rubber
+Foam
+Concrete
+Asphalt
+Brick
+Tile
+Icy
+Terracotta Army
+Blue and White Porcelain

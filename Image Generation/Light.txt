@@ -1,0 +1,69 @@
+Natural Light
+Sunlight
+Moonlight
+Starlight
+Morning Light
+Evening Light
+Golden Hour Light
+Blue Hour Light
+Overcast Light
+Soft Light
+Hard Light
+Diffused Light
+Direct Light
+Side Light
+Top Light
+Bottom Light
+Backlight
+Rim Light
+Silhouette
+Rembrandt Lighting
+Butterfly Lighting
+Loop Lighting
+Split Lighting
+Broad Lighting
+Short Lighting
+Ambient Light
+Artificial Light
+Studio Light
+Flash Light
+Continuous Light
+Tungsten Light
+Fluorescent Light
+LED Light
+Neon Light
+Candlelight
+Firelight
+Stage Lighting
+Spotlight
+Floodlight
+Reflector
+Softbox
+Umbrella
+Grid
+Gel
+Projection
+Light Beam
+Light Halo
+Light Flare
+Caustics
+Volumetric Light
+Tyndall Effect
+Strong Light
+Weak Light
+Warm Light
+Cold Light
+High Key
+Low Key
+Chiaroscuro
+Shadow
+Long Shadow
+Short Shadow
+Soft Shadow
+Hard Shadow
+Highlight
+Reflection
+Refraction
+Sparkle
+Glimmer
+Shimmer

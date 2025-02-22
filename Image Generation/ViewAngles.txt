@@ -1,0 +1,101 @@
+Front View
+Side View
+Back View
+Left Side View
+Right Side View
+Three-Quarter View
+Left Three-Quarter View
+Right Three-Quarter View
+High Angle/Bird's Eye View
+Low Angle/Worm's Eye View
+Eye-Level View
+Dutch Angle/Tilt
+Over-the-Shoulder Shot
+Point-of-View Shot/POV
+Close-Up
+Medium Shot
+Long Shot
+Extreme Close-Up
+Extreme Long Shot
+Aerial View
+Underwater View
+Macro View
+Wide Angle View
+Fish-Eye View
+Canted Angle
+45-Degree High Angle
+45-Degree Low Angle
+30-Degree High Angle
+30-Degree Low Angle
+60-Degree High Angle
+60-Degree Low Angle
+Close-Up High Angle
+Close-Up Low Angle
+Medium Shot High Angle
+Medium Shot Low Angle
+Long Shot High Angle
+Long Shot Low Angle
+Frontal Close-Up
+Profile Close-Up
+Back Close-Up
+Frontal Medium Shot
+Profile Medium Shot
+Back Medium Shot
+Frontal Long Shot
+Profile Long Shot
+Back Long Shot
+Left Profile Close-Up
+Right Profile Close-Up
+Left Profile Medium Shot
+Right Profile Medium Shot
+Left Profile Long Shot
+Right Profile Long Shot
+Left Three-Quarter Close-Up
+Right Three-Quarter Close-Up
+Left Three-Quarter Medium Shot
+Right Three-Quarter Medium Shot
+Left Three-Quarter Long Shot
+Right Three-Quarter Long Shot
+Slight High Angle
+Slight Low Angle
+High Angle Close Up
+Low Angle Close Up
+Moderate High Angle
+Moderate Low Angle
+Extreme High Angle
+Extreme Low Angle
+Looking Down From Above
+Looking Up From Below
+Looking From the Left
+Looking From the Right
+Looking Through...
+Looking Over...
+Looking Under...
+Looking Between...
+Looking Around...
+First-Person Perspective
+Third-Person Perspective
+God's Eye View
+Symmetrical View
+Asymmetrical View
+Balanced View
+Unbalanced View
+Stable View
+Unstable View
+Dynamic View
+Static View
+Horizontal View
+Vertical View
+Diagonal View
+Curved View
+Rotated View
+Mirror View
+Reversed View
+Distorted View
+Blurred View
+Focused View
+Out-of-Focus View
+Split Screen View
+Multiple Exposure View
+Long Exposure View
+Panoramic View
