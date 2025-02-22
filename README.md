@@ -21,7 +21,7 @@ This repository provides a diverse range of prompts, categorized to help you qui
 ## How to Use These Prompts
 
 1.  **Download .txt Files:** Browse the categorized folders and download the `.txt` file that contains prompts you want to use.
-2.  **Import into PromptPane:**  Use the "Import" functionality within the PromptPane macOS application to import the downloaded `.txt` file into your Pages.
+2.  **Import into PromptPane:**   Simply Drag and Drop the downloaded `.txt` file directly into the PromptPane window to import the prompts into your Pages.
 3.  **Copy and Paste (Alternative):**  Alternatively, you can directly copy and paste prompt text from any file in this repository into PromptPane.
 
 ## Prompt Categories
