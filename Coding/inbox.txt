@@ -1,0 +1,4 @@
+Understand Code: Please deeply understand the relationships and functions between the code.
+Best Practices: Follow best programming practices.
+Cohesion & Coupling: Follow the high cohesion and low coupling principles to ensure that the functionality within each module is tightly related, with a single responsibility, reducing dependencies between modules, and communicating through clear interfaces.
+Reusability: When designing the code, consider reusability, extract common functionality, and avoid code redundancy.
