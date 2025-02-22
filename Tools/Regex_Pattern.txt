@@ -1,0 +1,35 @@
+Match email addresses:Write a regex to find all email addresses in a given text.
+Match phone numbers (various formats):Create a regex that can match phone numbers in common formats like (XXX) XXX-XXXX, XXX-XXX-XXXX, XXXXXXXXXX, etc.
+Match dates (MM/DD/YYYY format):Write a regex to extract dates in MM/DD/YYYY format from a text.
+Match URLs:Develop a regex to identify URLs (both http and https) in a string.
+Match hashtags:Create a regex to find all hashtags (words starting with #) in social media text.
+Match mentions (Twitter-style @usernames):Write a regex to extract Twitter-style mentions (words starting with @) from text.
+Match words starting with 'A':Write a regex to find all words that begin with the letter 'A' (case-insensitive).
+Match words ending with 'ing':Create a regex to find words ending with 'ing'.
+Match lines starting with a number:Write a regex to match lines that begin with a digit.
+Match lines ending with a period:Create a regex to match lines that end with a period.
+Match any character except digits:Write a regex to find any character that is NOT a digit.
+Match whitespace characters:Create a regex to find whitespace characters (spaces, tabs, newlines).
+Match words with 3 to 5 letters:Write a regex to find words that are exactly 3 to 5 letters long.
+Match strings with at least 3 digits:Create a regex to match strings that contain at least 3 digits.
+Match strings with maximum 5 characters:Write a regex to match strings that are 5 characters or less in length.
+Match optional hyphen in word:Create a regex to match words that may or may not contain a hyphen.
+Match repeated characters:Write a regex to find instances of repeated characters (e.g., "aa", "bbb", "cccc").
+Extract area code from phone number:Write a regex to extract the area code (first 3 digits) from a phone number in the format (XXX) XXX-XXXX. Use capturing groups.
+Match either "apple" or "orange":Create a regex to match strings that contain either "apple" or "orange".
+Match different file extensions (jpg, png, gif):Write a regex to match filenames ending with extensions .jpg, .png, or .gif.
+Match variations of a word (color, colour):Create a regex to match both "color" and "colour".
+Match words followed by a specific word:Write a regex to find words that are immediately followed by the word "is". Use lookahead.
+Match words preceded by a specific word:Create a regex to find words that are immediately preceded by the word "the". Use lookbehind.
+Match words not followed by a specific word:Write a regex to find words that are NOT followed by the word "not". Use negative lookahead.
+Match words not preceded by a specific word:Create a regex to find words that are NOT preceded by the word "no". Use negative lookbehind.
+Validate strong password (min length, uppercase, lowercase, digit, symbol):Write a regex to validate if a password meets criteria for strong password (minimum length, contains uppercase, lowercase, digit, symbol).
+Parse CSV row (simple comma-separated):Create a regex to parse a simple CSV row where values are separated by commas.
+Extract data from HTML tag (e.g., <tag attribute="value">data</tag>):Write a regex to extract the attribute value and data content from a simple HTML tag.
+Find and replace multiple spaces with single space:Create a regex to find multiple spaces and replace them with a single space.
+Remove leading and trailing whitespace from lines:Write a regex to remove leading and trailing whitespace from each line of text.
+Extract all numbers from text:Use regex to extract all numerical values from a text, including integers and decimals.
+Find all URLs in markdown text:Write a regex to find all URLs specifically within markdown formatted text.
+Validate date in YYYY-MM-DD format and check for valid month and day:Create a regex to validate a date in YYYY-MM-DD format and additionally check if the month and day are valid (e.g., month between 01-12, day within month's range).
+Extract all quoted strings from code:Write a regex to extract all strings enclosed in double quotes from a block of code.
+Find and highlight specific keywords in text (case-insensitive):Create a regex to find specific keywords in a text, ignoring case, for highlighting purposes.
